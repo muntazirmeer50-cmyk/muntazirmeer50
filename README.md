@@ -4,23 +4,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muntazir meer</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | AI & NLP Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack |</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 **Currently working on:** **AI-based NLP Language Translator**  
-- 🌱 **Learning:** Advanced **Machine Learning** and **Natural Language Processing**  
-- 💬 **Ask me about:** MERN Stack, AI, NLP, Language Translators, Web Development  
+- 🔭 **Currently working on:** **holtel managment system **  
+- 🌱 **Learning:** Advanced **Machine Learning** and **tool and technic **  
+- 💬 **Ask me about:** MERN Stack, Web Development  
 - 📫 **Email:** **munazirmeer50@gmail.com**  
 
 ---
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
@@ -30,18 +28,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress" />
+
 </p>
 
 ---
 
 ## 🚀 Current Project: NLP AI-based Language Translator
-- **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, 
+- **Tech Stack:** React,js,tailwin css, node js,express js,mongodb 
 - **Key Focus:**  
-  - Data preprocessing & tokenization   
-  - Model training and fine-tuning (BLEU/F1 metrics)  
-  - Building APIs for real-time translation  
+  - user friendy interface
+  - real time communiction 
+  - data preprocessing & tokenization
+  - model training and fine - turning (BLEU/F1 metrics
 - **Objective:** Create an **AI-powered translator** for accurate and scalable language conversion  
 
 ---
@@ -56,8 +54,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:anjumbalgharii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Muntazirmeer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/anjumbalghari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:/muntazirmeer5rii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Muntazirmee50"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
 </p>
