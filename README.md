@@ -1,10 +1,9 @@
-# muntazir meer
-
+# Muntazir meer
 <p align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Ali Anjum</h1>
+<h1 align="center">Hi 👋, I'm Muntazir meer</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | AI & NLP Enthusiast</h3>
 
 ---
@@ -49,8 +48,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muntazir meer&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameMuntazirmeer&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:anjumbalgharii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Muhammad-Ali-Anjum"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Muntazirmeer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/anjumbalghari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
