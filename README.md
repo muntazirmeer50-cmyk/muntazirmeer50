@@ -13,7 +13,7 @@
 - 🔭 **Currently working on:** **AI-based NLP Language Translator**  
 - 🌱 **Learning:** Advanced **Machine Learning** and **Natural Language Processing**  
 - 💬 **Ask me about:** MERN Stack, AI, NLP, Language Translators, Web Development  
-- 📫 **Email:** **anjumbalgharii@gmail.com**  
+- 📫 **Email:** **munazirmeer50@gmail.com**  
 
 ---
 
